@@ -1,1 +1,1 @@
-# sklearn_PCA_DIMENSIONALITY-REDUCTION
+# sklearn_PCA_dimentionality_reduction
